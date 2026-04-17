@@ -1,0 +1,12 @@
+/* Bootstrap 4 */
+@import "./bootstrap.min.css";
+
+/* CSS template */
+@import "./styles.css";
+@import "./responsive.css";
+/* @import "./colors.css"; */
+/* @import "./bootstrap-select.css";
+@import "./perfect-scrollbar.css"; */
+/* @import "./custom.css"; */
+/* @import "./animate.css"; */
+@import "@fortawesome/fontawesome-free/css/all.min.css";
